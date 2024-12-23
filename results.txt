@@ -1,0 +1,3 @@
+Equation: 123.0x^2 + 321.0x + 123.0 = 0
+The roots are: real
+
